@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hellowindos.github.io/2024/03/10/%E8%93%9D%E6%A1%A5%E6%9D%AF%E8%80%83%E8%AF%95%E6%84%9F%E5%8F%97/</loc>
+    
+    <lastmod>2024-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hellowindos.github.io/2024/03/05/%E4%BD%93%E8%82%B2%E8%AF%BE2024-3-5/</loc>
     
     <lastmod>2024-03-05</lastmod>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>https://hellowindos.github.io/</loc>
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +93,21 @@
   
   <url>
     <loc>https://hellowindos.github.io/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hellowindos.github.io/tags/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hellowindos.github.io/tags/C/</loc>
-    <lastmod>2024-03-09</lastmod>
+    <lastmod>2024-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
